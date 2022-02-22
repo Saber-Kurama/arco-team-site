@@ -16,5 +16,9 @@
   ],
   "dependencies": {
     "prettier": "^2.5.1"
+  },
+  "publishConfig": {
+    "registry": "",
+    "access": "public"
   }
 }

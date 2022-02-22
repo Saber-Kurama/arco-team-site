@@ -1,4 +1,5 @@
 __temp__
 dist
 dist-dev
+node_modules
 !/docs

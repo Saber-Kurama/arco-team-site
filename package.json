@@ -13,5 +13,8 @@
   "license": "MIT",
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
 }
